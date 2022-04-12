@@ -6,6 +6,6 @@ rotate: alt + left mouse
 
 hide other objects: Show All Objects / Ghost Other Objects / Hide Other Objects
 
+LOP Network: for shaders
 
-
-shader: 
+Networks: LOP COP DOP CHOP ROP SOP TOP VOP
