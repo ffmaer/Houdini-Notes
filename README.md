@@ -13,3 +13,5 @@ Networks: LOP COP DOP CHOP ROP SOP TOP VOP
 lights: dome point area
 
 lightmixer: 
+
+useful nodes: track, resample, transform, copy to points
