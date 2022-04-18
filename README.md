@@ -15,3 +15,10 @@ lights: dome point area
 lightmixer: 
 
 useful nodes: track, resample, transform, copy to points
+
+noise: mountain, perlin, 
+
+terrain: 
+
+lop network: sop import, material library, principal shader
+
