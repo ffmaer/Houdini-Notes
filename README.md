@@ -22,3 +22,4 @@ terrain:
 
 lop network: sop import, material library, principal shader
 
+https://www.sidefx.com/tutorials/game-tools-rbd-to-fbx/
