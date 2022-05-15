@@ -23,3 +23,5 @@ terrain:
 lop network: sop import, material library, principal shader
 
 https://www.sidefx.com/tutorials/game-tools-rbd-to-fbx/
+
+https://www.youtube.com/watch?v=tAzIY9-AsSc (13) VAT 6 | Particles | Unity - YouTube
